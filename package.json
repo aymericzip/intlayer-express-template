@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "5.2.1",
     "express-intlayer": "canary",
-    "intlayer": "latest"
+    "intlayer": "8.3.0-canary.4"
   },
   "devDependencies": {
     "@types/express": "5.0.6",
